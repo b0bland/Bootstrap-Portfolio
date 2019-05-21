@@ -30,3 +30,7 @@ body {
     width: 775px;
     margin: 50px auto;
 }
+
+.card-deck {
+    margin-top: 25px;
+}
