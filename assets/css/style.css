@@ -25,3 +25,8 @@ body {
 .footer {
     font-size: 9px !important;
 }
+
+.contacts {
+    width: 775px;
+    margin: 50px auto;
+}
