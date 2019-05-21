@@ -13,3 +13,11 @@ body {
     background-image: url("../images/dark-triangles.png");
     background-size: contain;
 }
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.active {
+    margin-left: 15px;
+}
